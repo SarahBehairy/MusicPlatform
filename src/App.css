@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.audio{
+  width: 100%;
+  margin: 5px 0px 5px 0;
+  
+  }
+.search{
+  font-weight: bold;
+  align-self: flex-start;
+}
+
+
+
+

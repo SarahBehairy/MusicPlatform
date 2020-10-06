@@ -1,0 +1,19 @@
+.add-track-form{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    margin: 20px 0 20px 0;
+    width: 100%;
+    min-width: 350px;
+    
+
+}
+
+.form-buttons{
+    width: 7    0%;
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    justify-content: center;
+    
+}
